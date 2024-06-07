@@ -6,13 +6,13 @@ Most light weight local **portable web server** with Apache, PHP, MySQL and PHPM
 
 ## Preview
 
-| VERSION | PHP | DATE |
+| VERSION | PHP | UPDATE |
 | :----- | :-----: | -----: |
-| v8.6.4| PHP 8.0 | 02/20/2022 |
-| v8.6.3| PHP 7.4 | 02/20/2022 |
-| v8.6.2| PHP 7.1 | 11/11/2017 |
-| v8.6.1| PHP 5.6 | 11/11/2017 |
-| v8.6.0| PHP 5.4 | 11/11/2017 |
+| v8.6.4 | PHP 8.0 | 02/20/2022 |
+| v8.6.3 | PHP 7.4 | 02/20/2022 |
+| v8.6.2 | PHP 7.1 | 11/11/2017 |
+| v8.6.1 | PHP 5.6 | 11/11/2017 |
+| v8.6.0 | PHP 5.4 | 11/11/2017 |
 
 ## Download
 
