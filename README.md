@@ -8,6 +8,7 @@ Most light weight local **portable web server** with Apache, PHP, MySQL and PHPM
 
 | VERSION | PHP | UPDATE |
 | :----- | :-----: | -----: |
+| v8.6.5 | PHP 8.1 | 02/20/2022 |
 | v8.6.4 | PHP 8.0 | 02/20/2022 |
 | v8.6.3 | PHP 7.4 | 02/20/2022 |
 | v8.6.2 | PHP 7.1 | 11/11/2017 |
@@ -16,17 +17,17 @@ Most light weight local **portable web server** with Apache, PHP, MySQL and PHPM
 
 ## Download
 
-[usbwebserver_v8.6.5.zip](https://github.com/lopins/usbwebserver/blob/main/downloads/usbwebserver_v8.6.5-PHP8.1.zip) - **PHP 8.1**
+[usbwebserver_v8.6.5.zip](https://fastly.jsdelivr.net/gh/lopins/usbwebserver@main/downloads/usbwebserver_v8.6.5-PHP8.1.zip) - **PHP 8.1**
 
-[usbwebserver_v8.6.4.zip](https://github.com/lopins/usbwebserver/blob/main/downloads/usbwebserver_v8.6.4-PHP8.0.zip) - **PHP 8.0**
+[usbwebserver_v8.6.4.zip](https://fastly.jsdelivr.net/gh/lopins/usbwebserver@main/downloads/usbwebserver_v8.6.4-PHP8.0.zip) - **PHP 8.0**
 
-[usbwebserver_v8.6.3.zip](https://github.com/lopins/usbwebserver/blob/main/downloads/usbwebserver_v8.6.3-PHP7.4.zip) - **PHP 7.4**
+[usbwebserver_v8.6.3.zip](https://fastly.jsdelivr.net/gh/lopins/usbwebserver@main/downloads/usbwebserver_v8.6.3-PHP7.4.zip) - **PHP 7.4**
 
-[usbwebserver_v8.6.2.zip](https://github.com/lopins/usbwebserver/blob/main/downloads/usbwebserver_v8.6.2-PHP7.1.zip) - **PHP 7.1**
+[usbwebserver_v8.6.2.zip](https://fastly.jsdelivr.net/gh/lopins/usbwebserver@main/downloads/usbwebserver_v8.6.2-PHP7.1.zip) - **PHP 7.1**
 
-[usbwebserver_v8.6.1.zip](https://github.com/lopins/usbwebserver/blob/main/downloads/usbwebserver_v8.6.1-PHP5.6.zip) - **PHP 5.6**
+[usbwebserver_v8.6.1.zip](https://fastly.jsdelivr.net/gh/lopins/usbwebserver@main/downloads/usbwebserver_v8.6.1-PHP5.6.zip) - **PHP 5.6**
 
-[usbwebserver_v8.6.0.zip](https://github.com/lopins/usbwebserver/blob/main/downloads/usbwebserver_v8.6.0-PHP5.4.zip) - **PHP 5.4**
+[usbwebserver_v8.6.0.zip](https://fastly.jsdelivr.net/gh/lopins/usbwebserver@main/downloads/usbwebserver_v8.6.0-PHP5.4.zip) - **PHP 5.4**
 
 ## Change log
 
