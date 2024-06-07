@@ -4,15 +4,15 @@
 
 Most light weight local **portable web server** with Apache, PHP, MySQL and PHPMyAdmin for **Windows** on the Web. Just unzip enywhere (including USB flash drive), run and start using.		
 
-  ### USBWebserver v8.6.4 - with PHP 8.0 - 02/20/2022
+## Preview
 
-  ### USBWebserver v8.6.3 - with PHP 7.4 - 02/20/2022
-
-  ### USBWebserver v8.6.2 - with PHP 7.1 - 11/11/2017
-
-  ### USBWebserver v8.6.1 - with PHP 5.6 - 11/11/2017
-
-  ### USBWebserver v8.6.0 - with PHP 5.4 - 11/11/2017
+| VERSION | PHP | DATE |
+| :----- | :-----: | -----: |
+| v8.6.4| PHP 8.0 | 02/20/2022 |
+| v8.6.3| PHP 7.4 | 02/20/2022 |
+| v8.6.2| PHP 7.1 | 11/11/2017 |
+| v8.6.1| PHP 5.6 | 11/11/2017 |
+| v8.6.0| PHP 5.4 | 11/11/2017 |
 
 ## Download
 
